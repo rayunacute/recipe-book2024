@@ -3,7 +3,7 @@
 ## Ingredients
 
 - Chili
-- Onion
+- shallots
 - Salts
 - Garlic
 
