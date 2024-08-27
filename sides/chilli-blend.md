@@ -6,6 +6,7 @@
 - Onion
 - Salts
 - Garlic
+- sugar
 
 
 ## Instructions
