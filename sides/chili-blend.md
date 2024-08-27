@@ -5,7 +5,7 @@
 - Chili
 - Onion
 - Garlic
-
+- salt half spoon
 
 ## Instructions
 
