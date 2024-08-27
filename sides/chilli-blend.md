@@ -6,6 +6,7 @@
 - shallots
 - Salts
 - Garlic
+- sugar
 
 
 ## Instructions
